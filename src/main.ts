@@ -1,9 +1,9 @@
 import { createApp } from "vue";
 import { initPrimeVue } from "@/plugins/primevue";
 import { VueFormGeneratorPlugin } from "@tony-nz/vue-form-generator";
-
 import App from "./App.vue";
 import "./assets/tailwind.css";
+import "@tony-nz/vue-form-generator/dist/style.css";
 
 const app = createApp(App);
 

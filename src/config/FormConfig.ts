@@ -1,4 +1,4 @@
-import { Form } from "@tony-nz/vue-form-generator/dist/src/types/VueFormGenerator";
+import { Form } from "@tony-nz/vue-form-generator/src/types/VueFormGenerator";
 export const form: Array<Form> = [
   {
     name: "Basic details",

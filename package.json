@@ -8,6 +8,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@tony-nz/vue-form-generator": "^1.1.6",
     "chart.js": "^4.2.1",
     "core-js": "^3.8.3",
     "primevue": "^3.23.0",
@@ -15,7 +16,6 @@
     "vue": "^3.2.13"
   },
   "devDependencies": {
-    "@tony-nz/vue-form-generator": "^1.0.13",
     "@typescript-eslint/eslint-plugin": "^5.4.0",
     "@typescript-eslint/parser": "^5.4.0",
     "@vue/cli-plugin-babel": "~5.0.0",
